@@ -1,0 +1,39 @@
+body {
+
+	background: #3B3B3B;
+
+}
+
+#TítuloMain {
+
+	background: #FF4D00;
+	color: white ;
+	font-size: 50px;
+	text-align: center;
+	padding: 1em;
+}
+
+#Texto {
+
+
+	text-align: center;
+	color: white;
+	font-size: 30px ;
+
+}
+
+a {
+
+
+	 position: center
+
+ width: 50%;
+ height: 300px;
+
+}
+
+#href {
+
+	color: red;
+
+}
